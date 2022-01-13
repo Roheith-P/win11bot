@@ -31,6 +31,23 @@
     }
   },
   {
+    "name": "Snake Game", // unique name (check if it has been used already in the file)
+    "icon": "https://image.shutterstock.com/image-vector/cute-green-snake-cartoon-on-260nw-1405932350.jpg",
+    "type": "game", // game or app
+    "data": {
+      "type": "IFrame", // type currently supports IFrame only
+      "url": "https://www.google.com/fbx?fbx=snake_arcade",
+      "gallery": [ // three or more images for gallery view in store app
+        "https://xfanatical.com/wp-content/uploads/2020/03/Selection_305.jpg",
+        "https://gamertweak.com/wp-content/uploads/2021/12/how-to-mod-snake-game.jpg",
+        "https://1.bp.blogspot.com/-mWkFnTkEw4A/YGL8xe5e_cI/AAAAAAAABBo/w5eFSX4s-tsXsAUYFE-2EDXM-bItR4jbwCLcBGAsYHQ/s800/google-snake.jpg"
+      ],
+      "desc": "A Snake Game",
+      "feat": "Playing snake Game by catching fruits"
+      
+    }
+  },
+  {
     "name": "windows96",
     "icon": "https://i.redd.it/kksrotgwyya61.png",
     "type": "app",
