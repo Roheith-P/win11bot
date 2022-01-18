@@ -44,6 +44,19 @@
       ],
       "desc": "Windows 96 recreation",
       "feat": "The os older then your mother."
+    },
+    {
+    "name": "Google Translate",
+    "icon": "https://image.similarpng.com/very-thumbnail/2020/12/Google-translate-icon-design-on-transparent-background-PNG.png",
+    "type": "app",
+    "data": {
+      "type": "IFrame",
+      "url": "https://rowebtrans.web.app/",
+      "gallery": [
+        
+      ],
+      "desc": "Translate anything"
+      
     }
   },
   {
