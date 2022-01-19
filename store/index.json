@@ -60,7 +60,7 @@
       ],
       "desc": "Playing Cricket in online", // description for store app
       "feat": "virtual cricket", // features for store app
-      "invert": false, // when true it forces dark theme for game/app window, default is false.
+      
     }
   },
   {
